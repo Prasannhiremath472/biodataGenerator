@@ -1,0 +1,9 @@
+{
+  "app.name": "Biodata Generator",
+  "nav.dashboard": "Dashboard",
+  "nav.templates": "Templates",
+  "nav.login": "Login",
+  "nav.register": "Register",
+  "home.heading": "Create Professional Biodata in Minutes",
+  "home.subheading": "Choose from 25+ templates, in your language, exported as PDF or Word."
+}
